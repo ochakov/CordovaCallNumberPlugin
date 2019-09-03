@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rohfosho/CordovaCallNumberPlugin.git"
+    "url": "git+https://github.com/ochakov/CordovaCallNumberPlugin.git"
   },
   "keywords": [
     "cordova",
